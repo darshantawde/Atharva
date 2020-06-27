@@ -1,0 +1,23 @@
+* {
+    font-family: 'Roboto Slab', sans-serif;
+}
+
+body {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #fff;
+}
+
+.text {
+	text-transform: uppercase;
+	background: linear-gradient(to right, #ff7417 0%, #4a00a5 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font {
+		font-size: 50vw;
+		font-family: $font;
+	}
+}

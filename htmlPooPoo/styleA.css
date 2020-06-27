@@ -1,0 +1,16 @@
+* {
+    font-family: 'Roboto Slab';
+    background-color: deepskyblue;
+}
+h1 {
+    background-color: red;
+    text-align: center;
+}
+p {
+    color: white;
+    text-decoration: bold;
+}
+
+a {
+    color: deepskyblue; 
+}
